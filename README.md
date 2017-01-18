@@ -6,7 +6,7 @@ Tiny Turtle is a fun Computer Science activity created by a ScriptEd volunteer t
 
 #Directions for Set Up
 **Step 1: New Repo**      
-Create a new GitHub repo called **TinyTurtle**.
+Create a new GitHub repo called **TinyTurtle** by forking this repo.
 
 <br>
 **Step 2: Clone**   
@@ -72,5 +72,5 @@ Tiny Turtle understands the following commands:
 Use the commands above to make Tiny Turtle travel in a Square.
 
 **Step 8: House**  
-For the final piece of this project create a house (square with a triangle ontop)
+For the final piece of this project create a house (square with a triangle on top)
 
