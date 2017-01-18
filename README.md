@@ -6,11 +6,11 @@ Tiny Turtle is a fun Computer Science activity created by a ScriptEd volunteer t
 
 #Directions for Set Up
 **Step 1: New Repo**      
-Create a new GitHub repo called **TinyTurtle** by forking this repo.
+Fork this repo. 
 
 <br>
 **Step 2: Clone**   
-Clone your new repo into a Cloud 9 workspace with a similar name.
+Clone your new repo into a Cloud 9 workspace named **Tiny Turtle**.
 
 <br>
 **Step 3: New Files**   
