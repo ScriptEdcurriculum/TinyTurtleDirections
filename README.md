@@ -38,7 +38,7 @@ Copy and paste the code below into your index.html file
     <h1>Tiny Turtle</h1>
   <canvas></canvas>
   
-  <script src="tinyTurtle.js"></script>
+  <script src="https://toolness.github.io/tiny-turtle/tiny-turtle.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
